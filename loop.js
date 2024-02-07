@@ -4,9 +4,9 @@
 //     console.log(num)
 // }
 
-const fruite = ['orange', 'colaps', 'start', 'end'];
+// const fruite = ['orange', 'colaps', 'start', 'end'];
 
-for (const fruit of fruite){
-    console.log(fruit)
-    console.log("i want to eat")
-}
+// for (const fruit of fruite){
+//     console.log(fruit)
+//     console.log("i want to eat")
+// }
